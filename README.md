@@ -18,4 +18,4 @@ How to contribute (short):
 Example of a small change:
 - Update the contract constructor default greeting or add a line in the README.
 
-Thank you for contributing!
+Thank you for contributing! Thank you dharmanan
