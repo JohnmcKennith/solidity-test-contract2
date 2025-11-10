@@ -1,12 +1,11 @@
 // SPDX-License-Identifier: MIT
-// A very small example contract for an external PR exercise.
 pragma solidity ^0.8.0;
 
 contract SimpleGreeting {
     string public greeting;
 
-    constructor(string memory _greeting) {
-        greeting = _greeting;
+    constructor() {
+        greeting = "Hello from dharmanan!";
     }
 
     function setGreeting(string memory _newGreeting) public {
